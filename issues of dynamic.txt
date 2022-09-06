@@ -1,0 +1,7 @@
+"What is the problem of using dynamic memory allocation?"
+
+Image result for what are the issues of dynamic memory allocation in cpp
+The problem with dynamic memory allocation is that it is not deallocated itself, 
+developer responsibility to deallocate the allocated memory explicitly. 
+If we cannot release the allocated memory, 
+it can because of memory leak and make your machine slow.
